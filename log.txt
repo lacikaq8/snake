@@ -1,0 +1,10 @@
+2023-07-06 00:52:27 [JavaFX Application Thread] hu.unideb.inf.SnakeGame.start()
+INFO: Elindult a játék
+2023-07-06 00:52:27 [JavaFX Application Thread] hu.unideb.inf.SnakeGameLogic.SpawnÉtelEgyrandomlokációba()
+INFO: kaja spawn 50 kordináta 400 kordináta
+2023-07-06 00:52:28 [JavaFX Application Thread] hu.unideb.inf.SnakeGameLogic.SpawnÉtelEgyrandomlokációba()
+INFO: kaja spawn 275 kordináta 300 kordináta
+2023-07-06 00:52:30 [JavaFX Application Thread] hu.unideb.inf.SnakeGameLogic.lambda$gameOver$0()
+INFO: végső pontszám: 0
+2023-07-06 00:52:30 [JavaFX Application Thread] hu.unideb.inf.SnakeGameLogic.lambda$gameOver$0()
+INFO: vége a játéknak
